@@ -61,17 +61,18 @@ o	Ensuring proper data types (numerical, categorical, date).
 •	Data analysis and Forecasting
 •	Recommendations
 
-## Conclusion
-
-This project provides comprehensive gig economy insights by combining freelancer details with job and earnings data. The FreelanceGig Dashboard turns fragmented gig economy data into a clear, actionable story with the KPIs which Freelancers and policymakers can use to benchmark themselves against industry averages, find growth opportunities, and adjust rates strategically. Platform managers can leverage these insights and recommendations to optimise freelancer placement, enhance client satisfaction, and improve overall ecosystem efficiency.
-
-# Technical Highlights
+## Technical Highlights
 
 • KPI Cards: Created using calculated fields and fixed LOD expressions to ensure consistent metrics across filters.
 • Parameter Controls: Facilitates interactive comparisons of hourly rates by experience level.
 • Heatmap Matrix: Visualises platform earnings by experience, making it straightforward to identify earning potential across levels.
 • Custom Icons & Branding: Incorporates design elements such as platform-themed visuals for a professional, portfolio-ready appearance.
 • Colour Palette: Uses a consistent purple-pink theme to distinguish from the ER dashboard whilst improving readability.
+
+## Conclusion
+
+This project provides comprehensive gig economy insights by combining freelancer details with job and earnings data. The FreelanceGig Dashboard turns fragmented gig economy data into a clear, actionable story with the KPIs which Freelancers and policymakers can use to benchmark themselves against industry averages, find growth opportunities, and adjust rates strategically. Platform managers can leverage these insights and recommendations to optimise freelancer placement, enhance client satisfaction, and improve overall ecosystem efficiency.
+
 
 
 
