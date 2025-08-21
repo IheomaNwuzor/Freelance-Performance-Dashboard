@@ -64,9 +64,13 @@ o	Ensuring proper data types (numerical, categorical, date).
 ## Technical Highlights
 
 • KPI Cards: Created using calculated fields and fixed LOD expressions to ensure consistent metrics across filters.
+
 • Parameter Controls: Facilitates interactive comparisons of hourly rates by experience level.
+
 • Heatmap Matrix: Visualises platform earnings by experience, making it straightforward to identify earning potential across levels.
+
 • Custom Icons & Branding: Incorporates design elements such as platform-themed visuals for a professional, portfolio-ready appearance.
+
 • Colour Palette: Uses a consistent purple-pink theme to distinguish from the ER dashboard whilst improving readability.
 
 ## Conclusion
