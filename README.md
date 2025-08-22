@@ -55,11 +55,11 @@ To design and implement an interactive Tableau dashboard that provides actionabl
 
 o	Dataset cleaning and formatting.
 
-o	Joining tables on Freelancer_ID and job earnings.
+o	Data importation, table joining (Freelancer details and job earnings data).
 
-## Visual Representation of Data Moving and joining
+## Visual Representation of Data Moving, table creation and joining
 
-![Table joining](https://github.com/user-attachments/assets/dee9ddf7-aa00-4d67-a8e9-35da880d092e)
+![Freelancer](https://github.com/user-attachments/assets/8568cc1f-3fba-4006-a51c-f5f62c7d5f81)
 
 
 o	Proper data assignment (numerical, categorical, date).
