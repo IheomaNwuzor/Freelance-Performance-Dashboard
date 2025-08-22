@@ -49,16 +49,29 @@ To design and implement an interactive Tableau dashboard that provides actionabl
 •	Develop interactive dashboards
 •	Offer Recommendations
 
-## Integration Strategy 
+## Detailed Steps 
 
 •	Data Sourcing and Preparation:
+
 o	Dataset cleaning and formatting.
-o	Joining tables on Freelancer_ID.
-o	Ensuring proper data types (numerical, categorical, date).
-•	Calculated Fields, Metrics & KPIs
+
+o	Joining tables on Freelancer_ID and job earnings.
+
+## Visual Representation of Data Moved to staging
+
+![Table joining](https://github.com/user-attachments/assets/dee9ddf7-aa00-4d67-a8e9-35da880d092e)
+
+
+o	Proper data assignment (numerical, categorical, date).
+
+•	Creating calculated Fields for KPIs, Metrics & visualisations
+
 •	Visualisation Creation
+
 •	Dashboard Development
+
 •	Data analysis and Forecasting
+
 •	Recommendations
 
 ## Technical Highlights
