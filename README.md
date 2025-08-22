@@ -57,7 +57,7 @@ o	Dataset cleaning and formatting.
 
 o	Joining tables on Freelancer_ID and job earnings.
 
-## Visual Representation of Data Moved to staging
+## Visual Representation of Data Moving and joining
 
 ![Table joining](https://github.com/user-attachments/assets/dee9ddf7-aa00-4d67-a8e9-35da880d092e)
 
