@@ -1,4 +1,5 @@
-<img width="940" height="522" alt="image" src="https://github.com/user-attachments/assets/7d36ab12-dd40-4387-80f0-66baeb2227f0" />
+<img width="1799" height="999" alt="Freelancer Dashboard (1)" src="https://github.com/user-attachments/assets/e9f879d4-c243-4109-9658-2769fdb73300" />
+
 
 Link: https://public.tableau.com/app/profile/iheoma.nwuzor/viz/FreelancerDashboard_17556386642380/FreelancerDashboard
 
