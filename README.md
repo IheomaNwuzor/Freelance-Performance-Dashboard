@@ -3,7 +3,7 @@
 
 Link: https://public.tableau.com/app/profile/iheoma.nwuzor/viz/FreelancerDashboard_17556386642380/FreelancerDashboard
 
-# FreelancerGig and Job Earnings Performance Dashboard
+# FreelancerGig and Job Earnings Performance Analysis
 
 ## Background 
 
